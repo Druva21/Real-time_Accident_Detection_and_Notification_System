@@ -1,0 +1,6 @@
+
+train: D:\SEM-VII\CSE 411 Computer Vision\ACCIDENT_DETECTION_FINAL\dataset\images\auto
+val: D:\SEM-VII\CSE 411 Computer Vision\ACCIDENT_DETECTION_FINAL\dataset\images\auto
+
+nc: 2
+names: ['Normal', 'Accident']
